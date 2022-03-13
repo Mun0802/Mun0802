@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Munmun Bhojwani
+- 👋 Hi, I’m Munmun Bhojwani. Functional consultant by profession(ERP). 
 - 👀 I’m interested in Exploring and Learning New Things/Technologies.
 - 🌱 I’m currently learning Microsoft Azure as an Intern at Microsoft and Power BI at Udemy.
 - 💞️ I’m looking to collaborate as Business Analyst/ Product Analyst/ Product Manager
